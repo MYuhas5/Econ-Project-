@@ -5,6 +5,7 @@
 To replicate all results presented in the paper, execute the file EconProject.R which is contained in the main directory.
 
 # Data 
+* the data that I collected is under RealEcon2000.csv and RealEcon2010.csv
 * The dependent variable will be an average of the reading, math and science scores on the PISA test. Observations and test scores for Year 2000 will be from the PISA 2000:Overview of the Study Design, Method and Results written by Stanat · Artelt · Baumert · Klieme · Neubrand · Prenzel · Schiefele · Schneider · Schümer · Tillmann · Weiß, and Organization for Economic Co-operation and Development (OECD). Observations and test scores for Year 2010 will be from the 2009 PISA test scores.
   * All the test scores for each testing period can be found here: http://www.oecd.org/pisa/data/
 * This paper will include 8 independent variables and each will include observations from 2000 and 2010. Included: 
