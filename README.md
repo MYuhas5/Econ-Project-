@@ -7,7 +7,8 @@ To replicate all results presented in the paper, execute the file EconProject.R 
 # Data 
 
 # Software Required 
-readr
-stargazer
-lmtest
-car
+Work was done with R Studio and the following packages used are in the EconProject.R file and below:
+* readr
+* stargazer
+* lmtest
+* car
