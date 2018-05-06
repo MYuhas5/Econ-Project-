@@ -18,6 +18,13 @@ To replicate all results presented in the paper, execute the file EconProject.R 
   * Prison population rate in per hundred thousand of the national population from World Prison Brief
   * Gross domestic saving as a percentage of GDP from the Data World Bank.
 
+* The variable names are labeled differently for computational analysis. 
+ * For Year 2000, x is the average PISA scores
+   * x1 is Enrollment Rate, x2 is Education Index, x3 is School Expenditure as a percentage of GDP, x4 is Unemployment Rate, x5 is Health Expenditure per Capita, x6 is Pupil to Teacher Ratio, x7 Prison Population Rate, x8 is Gross Domestic Savings. 
+* For Year 2010, x0 is the average PISA scores
+  * x11 is Enrollment Rate, x21 is Education Index, x31 is School Expenditure as a percentage of GDP, x41 is Unemployment Rate, x51 is Health Expenditure per Capita, x61 is Pupil to Teacher Ratio, x71 Prison Population Rate, x81 is Gross Domestic Savings.
+ 
+
 # Software Required 
 Work was done with R Studio and the following packages used are in the EconProject.R file and below:
 * readr
